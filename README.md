@@ -1,6 +1,7 @@
+
 ```markdown
 # Password Generator
-
+```
 [English](#english) | [Bahasa Indonesia](#bahasa-indonesia)
 
 ## English
@@ -11,7 +12,6 @@
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [License](#license)
-- [Contact](#contact)
 
 ### Description
 Password Generator is a simple web application that allows users to generate random passwords with customizable length and characters.
@@ -45,7 +45,6 @@ Contributions are welcome! Please follow these steps to contribute:
 ### License
 This project is licensed under the [MIT License](LICENSE).
 
-
 ## Bahasa Indonesia
 
 ### Daftar Isi
@@ -54,7 +53,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [Penggunaan](#penggunaan)
 - [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
-- [Kontak](#kontak)
 
 ### Deskripsi
 Password Generator adalah aplikasi web sederhana yang memungkinkan pengguna untuk menghasilkan kata sandi acak dengan panjang dan karakter yang dapat disesuaikan.
@@ -87,8 +85,6 @@ Kontribusi sangat diterima! Silakan ikuti langkah-langkah berikut untuk berkontr
 
 ### Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
-### Kontak
-Untuk pertanyaan lebih lanjut, silakan hubungi [email@example.com](mailto:email@example.com).
 ```
-Semoga ini membantu! Jika ada pertanyaan lebih lanjut, jangan ragu untuk bertanya.
+
+ Semoga ini membantu! Jika ada pertanyaan lebih lanjut, jangan ragu untuk bertanya.
