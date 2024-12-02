@@ -1,6 +1,5 @@
-
 ```markdown
-# Password Generator
+ Password Generator
 ```
 [English](#english) | [Bahasa Indonesia](#bahasa-indonesia)
 
