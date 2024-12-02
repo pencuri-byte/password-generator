@@ -1,5 +1,3 @@
-Anda bisa membuat README yang mendukung dua bahasa dengan menggunakan tautan untuk berpindah antara bahasa Inggris dan bahasa Indonesia. Berikut adalah contoh bagaimana Anda bisa melakukannya:
-
 ```markdown
 # Password Generator
 
